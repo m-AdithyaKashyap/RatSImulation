@@ -120,6 +120,9 @@ namespace SecondWindow
 
         }
 
-       
+        private void GraphVid_Load_1(object sender, EventArgs e)
+        {
+
+        }
     }
 }

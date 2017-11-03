@@ -17,7 +17,7 @@ namespace SecondWindow
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
            // Application.Run(new Form1());
-            Application.Run(new GraphVid());
+            Application.Run(new demoGraphDynamic());
         }
     }
 }
