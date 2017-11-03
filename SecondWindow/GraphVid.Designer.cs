@@ -89,6 +89,7 @@
             this.Controls.Add(this.myplayer);
             this.Name = "GraphVid";
             this.Text = "GraphVid";
+            this.Load += new System.EventHandler(this.GraphVid_Load_1);
             ((System.ComponentModel.ISupportInitialize)(this.chart1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.myplayer)).EndInit();
