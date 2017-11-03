@@ -110,9 +110,9 @@ namespace SecondWindow
         {
             
         }
-        private void myplayer(object sender, EventArgs e)
+        private void axWindowsMediaPlayer1_Enter(object sender, EventArgs e)
         {
-
+            //myplayer.Controls
         }
 
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
