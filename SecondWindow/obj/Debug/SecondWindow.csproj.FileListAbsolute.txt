@@ -1,0 +1,10 @@
+C:\D drive\UC CLASSES\RatSimProj\SecondWindow\SecondWindow\bin\Debug\SecondWindow.exe.config
+C:\D drive\UC CLASSES\RatSimProj\SecondWindow\SecondWindow\bin\Debug\SecondWindow.exe
+C:\D drive\UC CLASSES\RatSimProj\SecondWindow\SecondWindow\bin\Debug\SecondWindow.pdb
+C:\D drive\UC CLASSES\RatSimProj\SecondWindow\SecondWindow\obj\Debug\SecondWindow.csprojResolveAssemblyReference.cache
+C:\D drive\UC CLASSES\RatSimProj\SecondWindow\SecondWindow\obj\Debug\SecondWindow.Form1.resources
+C:\D drive\UC CLASSES\RatSimProj\SecondWindow\SecondWindow\obj\Debug\SecondWindow.Properties.Resources.resources
+C:\D drive\UC CLASSES\RatSimProj\SecondWindow\SecondWindow\obj\Debug\SecondWindow.csproj.GenerateResource.Cache
+C:\D drive\UC CLASSES\RatSimProj\SecondWindow\SecondWindow\obj\Debug\SecondWindow.csproj.CoreCompileInputs.cache
+C:\D drive\UC CLASSES\RatSimProj\SecondWindow\SecondWindow\obj\Debug\SecondWindow.exe
+C:\D drive\UC CLASSES\RatSimProj\SecondWindow\SecondWindow\obj\Debug\SecondWindow.pdb
